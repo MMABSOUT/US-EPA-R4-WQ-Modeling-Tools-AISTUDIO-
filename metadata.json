@@ -1,0 +1,8 @@
+{
+  "name": "R4 WQ Modeling Tools & Weather Data Processor",
+  "description": "EPA Region 4 Water Quality Modeling & Weather Data Processing Suite for hydro-climatic analysis, multi-model weather export (LSPC, SWAT, EFDC, SWMM, WASP, WDM), stochastic generation, and gap filling.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
